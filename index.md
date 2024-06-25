@@ -11,3 +11,11 @@ Added a header 1.
       console.log("Positive number" + item)
   })
 ```
+
+Pending revisions:
+
+- [x] Study GitHub Projects
+- [x] Try Minecraft Plugin Dev
+- [ ] Make open source repo
+- [ ] Manage Collaboration markdown
+- [ ] Manage Security markdown
